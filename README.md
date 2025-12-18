@@ -1,6 +1,15 @@
-# ESG-performance-dataset-comparing-Asia-vs-North-America-for-year-2024-25
-Comparing Asia vs North America continent for the year 2024-25 on the ESG metrics dataset collected from Kaggle.
-ESG metrics are emerging as essential criteria among investors and businesses across industries as a key indicator for investment opportunities and business decisions.
-I focused on the top two continents, Asia and North America, with their massive manufacturing and supply chain across the globe. 
-Comparing the two continents based on comprehensive ESG indicators, including carbon emissions, resource usage, and detailed ESG scores. 
-My findings were - a. Sustainability score was lowest for the Energy industries in both continents in 2024 and 2025. For Asia, the sustainability score was 46.97 & 47.08 (out of 100) for 2024 and 2025, respectively. For North America, the sustainability score was 56.22 & 57.12 (out of 100) for 2024 and 2025.
+# ESG & Financial Performance Analysis: Asia vs North America (2024-2025)
+☀️ Quick Overview: This project compares ESG(Environmental, Social, Governance) scores, carbon emissions, market capitalization, and financial metrics across Asia and North America for 2024-2025 using SQL queries on a comprehensive dataset.
+
+🎯 Goals: Uncover sustainability trends, 
+    Identify top/bottom performers,
+    Industries with high carbon emissions,
+    Provide actionable insights for investors/regulators on balancing profitability with environmental responsibility.
+
+Key Takeaway: While North American industries lead in overall ESG scores, certain Asian sectors show rapid improvement—but at the cost of higher carbon emissions in high-revenue industries.
+
+🔑 Key Insights: 
+    Highest ESG overall score: Consumer Goods in Asia scored 89.8 in 2025 (up 1.12% from 2024) & Utilities in North America scored 91.4 in 2025 (down 2.14% from 2024)
+    
+
+<img width="542" height="238" alt="Screenshot 2025-12-19 005555" src="https://github.com/user-attachments/assets/3ae39952-641a-485e-8828-034b8592db48" />
