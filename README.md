@@ -1,6 +1,10 @@
 # ESG & Financial Performance Analysis: Asia vs North America (2024-2025)
-## Quick Overview:</br>
-This project compares ESG(Environmental, Social, Governance) scores, carbon emissions, market capitalization, and financial metrics across Asia and North America for 2024-2025 using SQL queries on a comprehensive dataset.
+## Executive Summary
+- North America leads in ESG scores overall, but faces a sharper rise in carbon emissions (+13.2% vs Asia’s +5.63%).
+- Asia shows rapid ESG improvement, particularly in Consumer Goods, though high-revenue industries still drive emissions upward.
+- Technology dominates both regions in market capitalization and revenue, underscoring its dual role as a growth driver and sustainability challenge.
+- Energy remains the largest carbon emitter, accounting for ~23.5% of Asia’s and ~30.2% of North America’s total emissions.
+- Actionable insights highlight opportunities for investors, regulators, and companies to balance profitability with environmental responsibility
 
 ### Goals: </br>
    + Uncover sustainability trends.</br> 
@@ -12,16 +16,15 @@ This project compares ESG(Environmental, Social, Governance) scores, carbon emis
  While North American industries lead in overall ESG scores, certain Asian sectors show rapid improvement—but at the cost of higher carbon emissions in high-revenue industries.
 
 ### Key Insights:</br>
-   + Highest Market capitalization: The technology industry dominated with <mark>$2.80</mark> and <mark>$3.01</mark> trillion total in Asia & North America, respectively, for 2024 & 2025.</br>
-   + Highest Revenue Generator: The technology industry dominated with <mark>$276.87</mark> and <mark>$355.93</mark> billion for Asia and North America, respectively, for 2024 & 2025.</br>
-   + Highest ESG overall score: Consumer Goods in Asia scored <mark>89.8/100</mark> in 2025 (up 1.12% from 2024) & Utilities in North America scored <mark>91.4/100</mark> in 2025 (down 2.14% from 2024)</br>
-   + Highest Carbon-Emitting Industry: </br>
-      - The energy industry emitted <mark>52.16</mark> megatons (23.5% of the total 221.11 megatons), primarily in Asia during 2025. </br>
+| Metric | Asia (2025) | North America (2025) | Notes / Trend |
+| ------ | ----------- | -------------------- | ------------- |
+| **Highest Market Capitalization** | Technology: **$2.80 T** (2024–2025) | Technology: **$3.01 T** (2024–2025) | Tech dominates both regions |
+| **Highest Revenue Generator** | Technology: **$276.87 B** | Technology: **$355.93 B** | Consistent industry leader |
+| **Highest ESG Score** | Consumer Goods: **89.8/100** (+1.12%) | Utilities: **91.4/100** (−2.14%) | Asia improving, North America declining |
+| **Highest Carbon Emissions** | Energy: **52.16 Mt** (23.5% of 221.11 Mt) | Energy: **100.96 Mt** (30.18% of 334.49 Mt) | Energy sector is the largest emitter |
+| **Carbon Emissions Growth** | **+5.63%** | **+13.2%** | Both regions show rising emissions |
 
-      - The energy industry emitted <mark>100.96</mark> megatons (30.18% of the total 334.49 megatons), primarily in North America during 2025.</br>
-   + Carbon Emissions increased<mark> 5.63%</mark> and <mark>13.2%</mark> in the Asia and North America regions, respectively
-   
-    
+
 ### Data & Modeling </br>
    + Dataset: company_esg_financial_dataset (11,000 rows) covering ESG scores (0-100), carbon emissions (tons), market cap, revenue, etc.</br>
    + Tools: Excel, MySQL aggregations (SUM, AVG, MAX), window functions (RANK, PARTITION BY), CTEs, joins for ranking industries from highest to lowest.</br>
@@ -40,24 +43,31 @@ This project compares ESG(Environmental, Social, Governance) scores, carbon emis
                                 ;
 
 
- Recommendations:</br>
-    + Investors: Prioritize [high ESG/low emission industries] for sustainable portfolios.</br>
-    + Policymakers: Target subsidies/regulations on [high-emission/high-revenue sectors].</br>
-    + Companies: Focus on [specific pillar, e.g., Governance] for the quickest ESG gains.</br>
 
- Limitations & Next Steps:</br>
-   + Data limited to 2024-2025; longer trends needed.</br>
-   + No causality analysis (e.g., does high ESG drive revenue?).</br>
+ ### Recommendations: 
+   + Investors: Prioritize high ESG and low-emission industries for sustainable portfolios.
+     
+   + Policymakers: Target subsidies/regulations on high-emission/high-revenue sectors.
+   
+   + Companies: Focus on specific pillar, e.g., Governance for the quickest ESG gains.
+
+ ### Limitations & Next Steps: 
+   + Data limited to 2024-2025; longer trends needed.
+   
+   + No causality analysis (e.g., does high ESG drive revenue?).
+
    + Future: Integrate Python/Tableau for interactive dashboards or ML predictions.</br>
 
- How to Run:
-    + Clone repo: git clone [url]
-    + Import dataset (Excel/CSV provided).
-    + Run queries in your SQL environment.
+ ### How to Run: 
+   + Clone repo: git clone [url]
+   
+   + Import dataset (Excel/CSV provided).
+  
+   + Run queries in your SQL environment.
 
  About Me
-                  Data Analyst passionate about sustainable finance. Connect on LinkedIn | View more projects [here].
-                  Thanks for visiting! ⭐ Star if useful!
+                Data Analyst passionate about sustainable finance. Connect on LinkedIn | View more projects [here].
+                  Thanks for visiting! 
                                           
 
 
