@@ -19,7 +19,7 @@
 | Metric | Asia (2025) | North America (2025) | Notes / Trend | Query Results |
 | ------ | ----------- | -------------------- | ------------- | ------------- |
 | **Highest Market Capitalization** | Technology: **$2.80 T** (2024–2025) | Technology: **$3.01 T** (2024–2025) | Tech dominates both regions | <img width="578" height="270" alt="image" src="https://github.com/user-attachments/assets/7e17eb71-e773-416f-93bd-daee716706bf" /> |
-| **Highest Revenue Generator** | Technology: **$276.87 B** | Technology: **$355.93 B** | Consistent industry leader | <img width="483" height="323" alt="image" src="https://github.com/user-attachments/assets/c0aef347-82c0-43fb-8d96-8b9095b9ab74" /> |
+| **Highest Revenue Generator** | Technology: **$276.87B** | Technology: **$355.93B** | Consistent industry leader | <img width="483" height="323" alt="image" src="https://github.com/user-attachments/assets/c0aef347-82c0-43fb-8d96-8b9095b9ab74" /> |
 | **Highest ESG Score** | Consumer Goods: **89.8/100** (+1.12%) | Utilities: **91.4/100** (−2.14%) | Asia improving, North America declining | <img width="784" height="419" alt="image" src="https://github.com/user-attachments/assets/e3dcef6c-debf-425a-acb2-47edf2619179" /> |
 | **Highest Carbon Emissions** | Energy: **52.16 Mt** (23.5% of 221.11 Mt) | Energy: **100.96 Mt** (30.18% of 334.49 Mt) | Energy sector is the largest emitter | <img width="747" height="288" alt="image" src="https://github.com/user-attachments/assets/9fe93f25-675a-41c6-bb5d-388fe1c61c3b" /> |
 | **Carbon Emissions Growth** | **+5.63%** | **+13.2%** | Both regions show rising emissions | <img width="659" height="313" alt="image" src="https://github.com/user-attachments/assets/bc677798-9626-42d2-88c9-03fafce5a0e7" /> |
